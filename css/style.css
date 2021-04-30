@@ -98,35 +98,35 @@ p{
     bottom: 20px;
 }
 /*second section styles*/
-.secondsection{
+.section2{
 	max-width: 1366px;
 	max-height: 662px;
 
 }
-.secondtext{
+.text2{
 	font-family: 'Poppins-ExtraBold';
 	font-size: 44px;
 	margin-top: 80px;
 	margin-left: 60px;
 }
-.section2-1{
+.text3{
 	color:black;
 	margin-top: 570px;
 	font-family: 'Poppins-Regular';
 }
-.section2-2{
+.text4{
 	color:black;
 	margin-top: 660px;
 	font-family: 'Poppins-Regular'
 
 }
-.long_rectangle{
+.bluesquare{
 	position: relative;
 	top: 200px;
     left: 60px;
     padding-top: 25px;
 }
-.read_more{
+.read-more{
 	position: absolute;
 	padding-top: 165px;
     padding-left: 115px;
@@ -142,18 +142,18 @@ p{
     font-size: 14px;
     font-family: 'Poppins-Regular'
 }
-.album{
+.grid{
 	display: inline-block;
 	margin-left: 750px;
 	margin-right:60px;
 }
 /*Third section Styles*/
-.third_section{
+.last-section{
 	background-color: black;
 	width: 1366px;
 	height: 304px;
 }
-.zetta{
+.zetta-hotels{
 	color: white;
 	margin-left: 60px;
 	font-size: 24px;
@@ -178,7 +178,7 @@ footer{
 .google{
 	padding-left: 20px;
 }
-.end{
+.bottom{
 	padding-top: 1560px;
 	top:0px;
 }
